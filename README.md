@@ -27,8 +27,8 @@ public int doMain( CliRequest cliRequest )
 ```
 
 
-###### org.apache.maven.DefaultMaven#doExecute(MavenExecutionRequest)  
 ---
+###### org.apache.maven.DefaultMaven#doExecute(MavenExecutionRequest)  
 ```html
 1. 初始化属性
 
